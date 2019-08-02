@@ -7,8 +7,8 @@ function createWindow () {
     height: 600,
     webPreferences: { nodeIntegration: true }
   })
-  // win.loadFile('testindex.html')
-  win.loadURL(`file://${__dirname}/src/index.html`)
+  // win.loadURL(`file://${__dirname}/src/index.html`)
+  win.loadURL("http://localhost:3000")
   win.webContents.openDevTools()
   win.on('closed', () => { win = null })
 }
