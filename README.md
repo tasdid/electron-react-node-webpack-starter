@@ -5,6 +5,5 @@
 * npm start
 
 **Project structure**
-  
-![structure](/uploads/3c6dcb107e9c9fd3847bd4a5d66a573c/Screenshot_2019-07-29_at_7.54.02_PM.png)
-<img src="/uploads/3c6dcb107e9c9fd3847bd4a5d66a573c/Screenshot_2019-07-29_at_7.54.02_PM.png"  width="400" height="400">
+
+<img src="/uploads/3c6dcb107e9c9fd3847bd4a5d66a573c/Screenshot_2019-07-29_at_7.54.02_PM.png"  width="600" height="400">
