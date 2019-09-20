@@ -5,4 +5,4 @@
 
 **Project structure**
 
-<img src="/uploads/3c6dcb107e9c9fd3847bd4a5d66a573c/Screenshot_2019-07-29_at_7.54.02_PM.png"  width="600" height="400">
+<img src="https://user-images.githubusercontent.com/26332421/65299309-e1b4b200-db90-11e9-9a51-3e59eb30d795.png" width="600" height="400">
